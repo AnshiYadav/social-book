@@ -37,7 +37,7 @@ A simple front-end social media concept app built using **HTML**, **CSS**, and *
 
 ## 👨‍💻 Author
 
-**Your Name**  
+**Anshi**  
 CSE Student | Front-End Developer
 
 ---
